@@ -1,0 +1,14 @@
+.form {
+    width: 700px;
+}
+
+button {
+    cursor: pointer;
+    margin-left: 10px !important;
+    border-left-width: 2px;
+}
+
+p {
+    color: #dcdcdc;
+}
+
